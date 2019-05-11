@@ -48,7 +48,7 @@
     "webpack-dev-middleware": "^1.6.1"
   },
   "dependencies": {
-    "favicons": "^4.8.3",
+    "favicons": "git+https://github.com/itgalaxy/favicons.git#7d1ff2f5af00ef7b15b1dbe7d7ba438a664c9d59",
     "loader-utils": "^0.2.14",
     "lodash": "^4.11.1"
   },
